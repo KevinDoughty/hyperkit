@@ -1,0 +1,25 @@
+{
+  "name": "hyperkit",
+  "version": "0.0.1",
+  "description": "Might actually be a collection view",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinDoughty/hyperkit.git"
+  },
+  "keywords": [
+    "animated",
+    "collection",
+    "view",
+    "hyperact"
+  ],
+  "author": "Kevin Doughty",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/KevinDoughty/hyperkit/issues"
+  },
+  "homepage": "https://github.com/KevinDoughty/hyperkit#readme"
+}
